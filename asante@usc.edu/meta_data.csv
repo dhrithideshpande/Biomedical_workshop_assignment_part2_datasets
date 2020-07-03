@@ -1,9 +1,9 @@
 id,status
 SAMPLE1,control
-SAMPLE2,control
+SAMPLE2,treated
 SAMPLE3,control
-SAMPLE4,control
-SAMPLE5,treated
+SAMPLE4,treated
+SAMPLE5,control
 SAMPLE6,treated
-SAMPLE7,treated
+SAMPLE7,control
 SAMPLE8,treated
